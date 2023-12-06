@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 📍 I'm a participant in All In Africa Program by: GitHub
 - 🔭 I’m currently working on my first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)
 
