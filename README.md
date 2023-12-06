@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📌 I’m currently learning Data Science by taking IBM DATA SCIENCE Profesional Certificate Course
 - 📍 I'm a participant in All In Africa Program by: GitHub
 - 🔭 I’m currently working on my first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)
 
