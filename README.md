@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh
 
