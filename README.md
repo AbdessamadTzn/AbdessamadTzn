@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 😄 Software Engineer Graduate | Junior Python/Java Back-End Developer
-- 📌 I’m currently learning Data Science by taking IBM DATA SCIENCE Profesional Certificate Course
+**I'm a junior back-end developer proficient in Java and Python, and I'm passionate about continuously expanding my skill set. Currently, I'm diving into the field of Data Science, actively working on enhancing my coding skills through projects and contributions to various open-source initiatives. I've established a digital studio dedicated to 'Tech,' 'Coding,' and 'WordPress Tips & Courses.'You can find helpful notebooks on my GitHub, covering a range of topics.**
 - 📍 I'm a participant in All In Africa Program by: GitHub
 - 🔭 I’m currently working on my first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
 
