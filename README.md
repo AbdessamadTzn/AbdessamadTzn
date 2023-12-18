@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 📍 I'm a participant in All In Africa Program by: GitHub
 - 🔭 I’m currently working on my first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
 
-
-![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)  
+![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)  
+
 
 
