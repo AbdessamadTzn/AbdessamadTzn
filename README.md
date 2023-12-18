@@ -6,5 +6,5 @@
 - 📌 Contributor in [Bug Tracker App](https://github.com/AbdessamadTzn/Bug_Tracker_App)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical) 
 ![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15) 
