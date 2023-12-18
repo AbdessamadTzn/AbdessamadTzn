@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn)](https://github.com/anuraghazra/github-readme-stats)
+
 
