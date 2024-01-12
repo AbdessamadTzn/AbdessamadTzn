@@ -4,7 +4,7 @@
 - ⚡ I can scrape websites using beautifulsoup, and I'm lerarning Selenium framework
 - 🔭 I’m currently working on:
     - My first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
-    - Data Science project [Analyzing Flights Crashes](https://github.com/AbdessamadTzn/Self-Taught-Data-Scientist/tree/main/English/Analyzing%20Flight%20Crashes)
+    - Data Science project [Analyzing Flights Crashes](https://github.com/AbdessamadTzn/Self-Taught-Data-Scientist/tree/main/Analyzing%20Flight%20Crashes)
     - Web Scraping Porject [Quotes Scraping](https://github.com/AbdessamadTzn/Web-Scraping/tree/main/BeautifulSoup4/QuotesToScrape)
 - 📌 Contributor in [Bug Tracker App](https://github.com/AbdessamadTzn/Bug_Tracker_App)
 
