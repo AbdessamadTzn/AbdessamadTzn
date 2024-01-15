@@ -11,4 +11,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadTzn)](https://github.com/AbdessamadTzn/github-readme-stats)
+
 ![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15) 
