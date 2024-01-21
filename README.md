@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm a junior back-end developer proficient in Java and Python, and I'm passionate about continuously expanding my skill set. Currently, I'm diving into the field of Data Science, actively working on enhancing my coding skills through projects and contributions to various open-source initiatives. I've established a [digital studio](https://lnk.bio/katskystudio) dedicated to 'Tech,' 'Coding,' and 'WordPress Tips & Courses.'You can find helpful notebooks on my GitHub, covering a range of topics.**
+**I'm a junior back-end developer proficient in Java and Python, and I'm passionate about continuously expanding my skill set. Currently, I'm diving into the field of Data Science, actively working on enhancing my coding skills through projects and contributions to various open-source initiatives. I've established a [digital studio](https://lnk.bio/katskystudio) dedicated to sharing my knowledge in IT.'You can find helpful notebooks on my GitHub, covering a range of topics.**
 - 📍 I'm a participant in All In Africa Program by: GitHub
 - ⚡ I can scrape websites using beautifulsoup, and I'm lerarning Scrapy framework
 - 🔭 I’m currently working on:
