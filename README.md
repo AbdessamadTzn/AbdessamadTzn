@@ -7,7 +7,7 @@
     - Data Science project [Analyzing Flights Crashes](https://github.com/AbdessamadTzn/Self-Taught-Data-Scientist/tree/main/Analyzing%20Flight%20Crashes)
     - Web Scraping Porject [Quotes Scraping](https://github.com/AbdessamadTzn/Web-Scraping/tree/main/BeautifulSoup4/QuotesToScrape)
 - 📌 Contributor in [Bug Tracker App](https://github.com/AbdessamadTzn/Bug_Tracker_App)
-- If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
+- 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)   
