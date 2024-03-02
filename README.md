@@ -15,5 +15,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)   
 
-## LeetCode
-![Leetcode Stats](https://leetcard.jacoblin.cool/__abdessamadtouzani__)
+
