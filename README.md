@@ -10,9 +10,7 @@
 - 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadTzn&hide_progress=true&theme=radical)
-
-![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)  ![Leetcode Stats](https://leetcard.jacoblin.cool/__abdessamadtouzani__)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadTzn&hide_progress=true&theme=radical)  
+![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)
 
