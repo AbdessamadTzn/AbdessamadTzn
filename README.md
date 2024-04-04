@@ -11,14 +11,16 @@
 <!--     <a href="https://soundcloud.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a> -->
 </p>
 <p>
-- 📍 Bachelor of Science in Software Engineering, IBM DATA SCIENCE CERTIFICATE && All In Africa program COHORT 1 GRADUATE 
+📍 Bachelor of Science in Software Engineering, IBM DATA SCIENCE CERTIFICATE && All In Africa program COHORT 1 GRADUATE 
     
-- 🔭 I’m currently working on:
+⚡Launching my latest project - [A dynamic Dash app for visualizing flight crash data since 1908!](https://flight-crashes-analysis-omw0.onrender.com/)
+    
+🔭 I’m currently working on:
   
-    - Current internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)  
-    - My first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project) 
-    - Data Science project [Analyzing Flights Crashes](https://github.com/AbdessamadTzn/Self-Taught-Data-Scientist/tree/main/Analyzing%20Flight%20Crashes) 
-- 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
+ - Current internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)  
+ - My first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
+
+🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>
 
 
