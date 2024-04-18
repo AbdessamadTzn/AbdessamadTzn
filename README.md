@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Touzani
+-------------------
+
+Software Engineer | Data Scientist
+-------------------
 **I've completed the IBM Data Science Professional Certificate, gaining expertise in data analysis, visualization, machine learning, and web scraping.  In addition to that, I'm proficient in Mojo programming language, further expanding my capabilities in AI development.  I'm also skilled in Python (Flask), Java(Spring Boot), PHP (Laravel), and JavaScript. My experience extends to developing web applications and I'm a master at leveraging Excel's features for data manipulation and visualization.  On top of that, I use Power BI and Dash framework to create interactive dashboards.**
 <p>
     <a href="https://github.com/AbdessamadTzn"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
@@ -13,18 +17,17 @@
 <p>
 📍 Bachelor of Science in Software Engineering, IBM DATA SCIENCE CERTIFICATE && All In Africa program COHORT 1 GRADUATE 
     
-⚡Launching my latest project - [A dynamic Dash app for visualizing flight crash data since 1908!](https://flight-crashes-analysis-omw0.onrender.com/)
+⚡Launching my latest project [A dynamic Dash app for visualizing flight crash data since 1908!](https://flight-crashes-analysis-omw0.onrender.com/)<br/>
+
+⚡ Virtual Data Science internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)
+
     
 🔭 I’m currently working on:
-  
- - Current internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)  
- - My first Flask Project from scratch: [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
+    
+ - Flask Project [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
-</p>
+</p>   📊 GitHub Stats:
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadTzn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadTzn&hide_progress=true&theme=radical)  
-![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdessamadTzn&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadTzn&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
