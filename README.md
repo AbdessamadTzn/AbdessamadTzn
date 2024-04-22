@@ -1,7 +1,7 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Touzani
 -------------------
 
-Software Engineer | Data Scientist
+Software Engineer | @IBM Data Science Certified
 -------------------
 **I've completed the IBM Data Science Professional Certificate, gaining expertise in data analysis, visualization, machine learning, and web scraping.  In addition to that, I'm proficient in Mojo programming language, further expanding my capabilities in AI development.  I'm also skilled in Python (Flask), Java(Spring Boot), PHP (Laravel), and JavaScript. My experience extends to developing web applications and I'm a master at leveraging Excel's features for data manipulation and visualization.  On top of that, I use Power BI and Dash framework to create interactive dashboards.**
 <p>
