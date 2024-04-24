@@ -24,7 +24,7 @@ Software Engineer | @IBM Data Science Certified
 ⚡ Flask Project [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)<br>
 
     
-🔭 I’m currently working on:
+🔭 I’m currently a Technical writer && Developer working on:
 
  - Open source app [Amplify](https://github.com/OpenSourceFellows/amplify_server)<br/>
 
