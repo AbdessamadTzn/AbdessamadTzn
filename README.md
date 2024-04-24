@@ -19,12 +19,14 @@ Software Engineer | @IBM Data Science Certified
     
 ⚡Launching my latest project [A dynamic Dash app for visualizing flight crash data since 1908!](https://flight-crashes-analysis-omw0.onrender.com/)<br/>
 
-⚡ Virtual Data Science internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)
+⚡ Virtual Data Science internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)<br/>
+
+⚡ Flask Project [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)<br>
 
     
 🔭 I’m currently working on:
-    
- - Flask Project [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)
+
+ - Open source app [Amplify](https://github.com/OpenSourceFellows/amplify_server)<br/>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>   📊 GitHub Stats:
