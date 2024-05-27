@@ -1,7 +1,7 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Touzani
--------------------
 
-Software Engineer Bchelor's degree | @IBM Data Science Certified
+<h3>Software Engineer Bchelor's degree | @IBM Data Science Certified | All In Africa program COHORT 1 GRADUATE</h3><br>
+
 -------------------
 Junior Backend developer & Data Analyst
 -------------------
@@ -19,10 +19,8 @@ Junior Backend developer & Data Analyst
 <p>
 🔭 I’m currently a Seasonal Backend Developer working on:
     
--------**Open Source App [Amplify](https://github.com/OpenSourceFellows/amplify_server)**
+📍-------**Open Source App [Amplify](https://github.com/OpenSourceFellows/amplify_server)**
 
-    
-📍 Bachelor of Science in Software Engineering, IBM DATA SCIENCE CERTIFICATE && All In Africa program COHORT 1 GRADUATE 
     
 ⚡Data Analysis's Open Source Project [Dosatsu Sozo](https://github.com/AbdessamadTzn/Dosatsu-Sozo)<br/>
 
