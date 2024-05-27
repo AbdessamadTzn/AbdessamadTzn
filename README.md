@@ -3,7 +3,7 @@
 <h3>Software Engineer Bchelor's degree | @IBM Data Science Certified | All In Africa program COHORT 1 GRADUATE</h3><br>
 
 -------------------
-Junior Backend developer & Data Analyst
+Junior Backend Developer & Data Analyst
 -------------------
 **I've completed the IBM Data Science Professional Certificate, gaining expertise in data analysis, visualization, machine learning, and web scraping.  In addition to that, I'm proficient in Mojo programming language, further expanding my capabilities in AI development.  I'm also skilled in Python (Flask), PHP (Laravel), Java, JavaScript & TypeScript. My experience extends to developing web applications and I'm a master at leveraging Excel's features for data manipulation and visualization.  On top of that, I use Power BI and Dash framework to create interactive dashboards.**
 <p>
