@@ -1,11 +1,12 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Touzani
 
-<h3>Software Engineer Bchelor's degree | @IBM Data Science Certified | All In Africa program COHORT 1 GRADUATE</h3><br>
+<h3>Bchelor's degree in Software Engineering | @IBM Data Science Professional Certificate | All In Africa program COHORT 1 GRADUATE</h3><br>
 
 -------------------
 Junior Backend Developer & Data Analyst
 -------------------
-**I've completed the IBM Data Science Professional Certificate, gaining expertise in data analysis, visualization, machine learning, and web scraping.  In addition to that, I'm proficient in Mojo programming language, further expanding my capabilities in AI development.  I'm also skilled in Python (Flask), PHP (Laravel), Java, JavaScript & TypeScript. My experience extends to developing web applications and I'm a master at leveraging Excel's features for data manipulation and visualization.  On top of that, I use Power BI and Dash framework to create interactive dashboards.**
+**I've completed the IBM Data Science Professional Certificate, gaining expertise in data analysis, visualization, machine learning, and web scraping.  In addition to that, I'm proficient in Mojo programming language, further expanding my capabilities in AI development.  I'm also skilled in Python (Flask), Java, PHP (Laravel), JavaScript & TypeScript. My experience extends to developing web applications and I'm expereineced at leveraging Excel's features for data manipulation and visualization.  On top of that, I use Power BI and Dash framework to create interactive dashboards.<br>
+— I’m trilingual (English, French and Arabic).**
 <p>
     <a href="https://github.com/AbdessamadTzn"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
     <a href="https://linkedin.com/in/abdessamadtouzani"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
