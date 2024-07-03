@@ -3,10 +3,9 @@
 <h3>Bchelor's degree in Software Engineering | @IBM Data Science Professional Certificate | All In Africa program COHORT 1 GRADUATE</h3><br>
 
 -------------------
-Junior Backend Developer & Data Analyst
+Software Developer & Junior Data Analyst
 -------------------
-**I've completed the IBM Data Science Professional Certificate, gaining expertise in data analysis, visualization, machine learning, and web scraping.  In addition to that, I'm proficient in Mojo programming language, further expanding my capabilities in AI development.  I'm also skilled in Python (Flask), Java, PHP (Laravel), JavaScript & TypeScript. My experience extends to developing web applications and I'm expereineced at leveraging Excel's features for data manipulation and visualization.  On top of that, I use Power BI and Dash framework to create interactive dashboards.<br>
-— I’m trilingual (English, French and Arabic).**
+**Innovative Software Developer with a proven track record of creating impactful applications tailored to diverse user needs. Expertise in data analysis, visualization, and machine learning, complemented by proficiency in the Mojo programming language for AI development. Skilled in Python (Flask), Java, PHP (Laravel), JavaScript, TypeScript, and Vue.js, with a strong foundation in web application development. Experienced in leveraging Excel for advanced data manipulation and visualization, and proficient in creating interactive dashboards using Power BI and Dash framework. Fluent in English, French, and Arabic, facilitating effective communication across global teams and stakeholders.**
 <p>
     <a href="https://github.com/AbdessamadTzn"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
     <a href="https://linkedin.com/in/abdessamadtouzani"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
@@ -18,10 +17,13 @@ Junior Backend Developer & Data Analyst
 <!--     <a href="https://soundcloud.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a> -->
 </p>
 <p>
-🔭 I’m currently a Seasonal Backend Developer working on:
+🌟 Intern Software Developer (Remote)<br>
+📍 Program Equity, San Francisco, CA<br>
+🏢 Non-Profit Organization <br>
     
-📍-------**Open Source App [Amplify](https://github.com/OpenSourceFellows/amplify_server)**
+🔧Working on: Open Source App [Amplify](https://github.com/OpenSourceFellows/amplify_server)<br>
 
+🚀 **Projects**
     
 ⚡Data Analysis's Open Source Project [Dosatsu Sozo](https://github.com/AbdessamadTzn/Dosatsu-Sozo)<br/>
 
@@ -32,7 +34,7 @@ Junior Backend Developer & Data Analyst
 ⚡ Flask Project [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)<br>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
-</p>   📊 GitHub Stats:
+</p>   📊 GitHub Stats
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdessamadTzn&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadTzn&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
