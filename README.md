@@ -17,11 +17,10 @@ Software Developer & Junior Data Analyst
 <!--     <a href="https://soundcloud.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a> -->
 </p>
 <p>
-🌟 Intern Software Developer (Remote)<br>
-📍 Program Equity, San Francisco, CA<br>
-🏢 Non-Profit Organization <br>
+📍 Working on:<br>
     
-🔧Working on: Open Source App [Amplify](https://github.com/OpenSourceFellows/amplify_server)<br>
+[Event Management System](https://github.com/AbdessamadTzn/Event-Management-System)<br>
+[Personal Budget Tracker](https://github.com/AbdessamadTzn/Personal-Budget-Tracker)<br>
 
 🚀 **Projects**
     
@@ -30,8 +29,6 @@ Software Developer & Junior Data Analyst
 ⚡Launching my latest project [Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/)<br/>
 
 ⚡ Virtual Data Science internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)<br/>
-
-⚡ Flask Project [Managing Absence at schools](https://github.com/AbdessamadTzn/flask-project)<br>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>   📊 GitHub Stats
