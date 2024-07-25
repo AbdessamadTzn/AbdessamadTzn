@@ -28,7 +28,7 @@ Software Developer & Junior Data Analyst
 
 ⚡Launching my latest project [Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/)<br/>
 
-⚡ Virtual Data Science internship's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Bharat-Intern/)<br/>
+⚡ Machine Learning's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>   📊 GitHub Stats
