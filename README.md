@@ -31,7 +31,7 @@ Software Developer & Junior Data Analyst
 ⚡ Machine Learning's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
-</p>   📊 GitHub Stats
+</p>   
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdessamadTzn&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadTzn&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdessamadTzn&theme=algolia" alt="nuuxcode" /></p>
 
