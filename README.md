@@ -26,7 +26,7 @@ Software Developer & Junior Data Analyst
     
 ⚡Data Analysis's Open Source Project [Dosatsu Sozo](https://github.com/AbdessamadTzn/Dosatsu-Sozo)<br/>
 
-⚡Launching my latest project [Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/)<br/>
+⚡Launching my latest project [Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/) (Working on styling...)<br/>
 
 ⚡ Machine Learning's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
 
