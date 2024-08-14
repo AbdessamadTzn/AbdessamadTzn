@@ -6,21 +6,17 @@
 Software Developer & Junior Data Analyst
 -------------------
 **Innovative Software Developer with a proven track record of creating impactful applications tailored to diverse user needs. With expertise in data analysis, visualization, and machine learning, complemented by proficiency in the Mojo programming language for AI development, I'm skilled in Python (Flask), Java, PHP (Laravel), JavaScript, TypeScript, and Vue.js, with a strong foundation in web application development. In addition, I'm experienced in leveraging Excel for advanced data manipulation and visualization, and proficient in creating interactive dashboards using Power BI and Dash framework, with fluently in English, French, and Arabic, facilitating effective communication across global teams and stakeholders.**
-<p>
-    <a href="https://github.com/AbdessamadTzn"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
-    <a href="https://linkedin.com/in/abdessamadtouzani"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
-    <a href="https://twitter.com/at9kat"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
-<!--     <a href="https://facebook.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/facebook.svg"></a> -->
-    <a href="https://instagram.com/katsky_studio_fr"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/instagram.svg"></a>
-<!--     <a href="https://reddit.com/u/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/reddit.svg"></a> -->
-    <a href="https://paypal.me/safredo"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/paypal.svg"></a>
-<!--     <a href="https://soundcloud.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a> -->
-</p>
-<p>
-📍 Working on:<br>
+
+
+🌱 [Ch-dev-tool](https://github.com/Ch-dev-tool/)<br>
+
+    
+**🔭 Working on: <br>**
     
 [Event Management System](https://github.com/AbdessamadTzn/Event-Management-System)<br>
 [Personal Budget Tracker](https://github.com/AbdessamadTzn/Personal-Budget-Tracker)<br>
+
+**👯 Collaboration:**   [Idmaaj](https://github.com/Ch-dev-tool/Idmaaj-Product)
 
 🚀 **Projects**
     
@@ -31,7 +27,7 @@ Software Developer & Junior Data Analyst
 ⚡ Machine Learning's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
-</p>   
+</p>   <br>
 
 <p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdessamadTzn&theme=algolia" alt="nuuxcode" /></p>
 
