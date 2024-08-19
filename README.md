@@ -6,17 +6,12 @@
 Software Developer & Junior Data Analyst
 -------------------
 **Innovative Software Developer with a proven track record of creating impactful applications tailored to diverse user needs. With expertise in data analysis, visualization, and machine learning, complemented by proficiency in the Mojo programming language for AI development, I'm skilled in Python (Flask), Java, PHP (Laravel), JavaScript, TypeScript, and Vue.js, with a strong foundation in web application development. In addition, I'm experienced in leveraging Excel for advanced data manipulation and visualization, and proficient in creating interactive dashboards using Power BI and Dash framework, with fluently in English, French, and Arabic, facilitating effective communication across global teams and stakeholders.**
-
-
-🌱 [Ch-dev-tool](https://github.com/Ch-dev-tool/)<br>
-
     
 **🔭 Working on: <br>**
     
 [Event Management System](https://github.com/AbdessamadTzn/Event-Management-System)<br>
 [Personal Budget Tracker](https://github.com/AbdessamadTzn/Personal-Budget-Tracker)<br>
 
-**👯 Collaboration:**   [Idmaaj](https://github.com/Ch-dev-tool/Idmaaj-Product)
 
 🚀 **Projects**
     
