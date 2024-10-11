@@ -3,14 +3,12 @@
 <h3>Bchelor's Degree in Software Engineering | @IBM Data Science Professional Certificate | All In Africa Program COHORT 1 GRADUATE</h3><br>
 
 -------------------
-Software Developer & Junior Data Analyst
+Junior Data Analyst | Python/Flask | JavaScript
 -------------------
-**Innovative Software Developer with a proven track record of creating impactful applications tailored to diverse user needs. With expertise in data analysis, visualization, and machine learning, complemented by proficiency in the Mojo programming language for AI development, I'm skilled in Python (Flask), Java, PHP (Laravel), JavaScript, TypeScript, and Vue.js, with a strong foundation in web application development. In addition, I'm experienced in leveraging Excel for advanced data manipulation and visualization, and proficient in creating interactive dashboards using Power BI and Dash framework, with fluently in English, French, and Arabic, facilitating effective communication across global teams and stakeholders.**
     
 **🔭 Working on: <br>**
     
 [Event Management System](https://github.com/AbdessamadTzn/Event-Management-System)<br>
-[Personal Budget Tracker](https://github.com/AbdessamadTzn/Personal-Budget-Tracker)<br>
 
 
 🚀 **Projects**
