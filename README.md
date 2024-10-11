@@ -1,6 +1,7 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Touzani
 
 <h3>Bchelor's Degree in Software Engineering | @IBM Data Science Professional Certificate | All In Africa Program COHORT 1 GRADUATE</h3><br>
+
 -------------------
 Junior Data Analyst | Python/Flask | JavaScript
 -------------------
