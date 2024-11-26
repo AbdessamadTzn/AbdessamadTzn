@@ -3,21 +3,22 @@
 <h3>Bchelor's Degree in Software Engineering | @IBM Data Science Professional Certificate | All In Africa Program COHORT 1 GRADUATE</h3><br>
 
 -------------------
-Junior Data Analyst | Python/Flask | JavaScript
+First-year Master's student in Data & AI | Python/Flask 
 -------------------
     
 **🔭 Working on: <br>**
     
-[Event Management System](https://github.com/AbdessamadTzn/Event-Management-System)<br>
+Python Converter System (Setting UP...) <br>
+Power BI projects (Setting UP...) <br>
 
 
 🚀 **Projects**
     
 ⚡Data Analysis's Open Source Project [Dosatsu Sozo](https://github.com/AbdessamadTzn/Dosatsu-Sozo)<br/>
 
-⚡Launching my latest project [Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/) (Working on styling...)<br/>
+⚡[Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/) (Working on enhancing...)<br/>
 
-⚡ Machine Learning's projects [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
+⚡ [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>   <br>
