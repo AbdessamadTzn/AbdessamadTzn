@@ -5,11 +5,21 @@
 -------------------
 First-year Master's student in Data & AI | Python/Flask 
 -------------------
+<p>
+    <a href="https://github.com/AbdessamadTzn"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
+    <a href="https://linkedin.com/in/abdessamadtouzani"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
+    <a href="https://twitter.com/at9kat"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
+<!--     <a href="https://instagram.com/___abdessamad__"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/instagram.svg"></a> -->
+</p>
+
+
+**🔭 Working on: <br>**                                                                          
     
-**🔭 Working on: <br>**
-    
-Python Converter System (Setting UP...) <br>
+[Python Converter System](https://github.com/AbdessamadTzn/NL2SQL) (Setting UP...) <br>
 Power BI projects (Setting UP...) <br>
+
+**💡 Currently contributing in: <br>**
+[CHAOSS Africa Education](https://github.com/chaoss/education/)<br>
 
 
 🚀 **Projects**
