@@ -31,13 +31,18 @@ Power BI projects (Setting UP...) <br>
 ⚡ [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
-</p>   
-<br>
+</p>
 
-![LeetCode's Stats](https://leetcode-badge-sage.vercel.app/badge/abdessamadtouzani?theme=dark)
+<br >
 
-
-<br>
-
-<p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdessamadTzn&theme=algolia"/></p>
+<table>
+    <td>
+      <img src="https://leetcode-badge-sage.vercel.app/badge/abdessamadtouzani?theme=dark" alt="LeetCode's Stats" />
+    </td>
+    <td>
+      <p align="center">
+        <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdessamadTzn&theme=algolia" />
+      </p>
+    </td>
+</table>
 
