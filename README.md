@@ -3,7 +3,7 @@
 <h3>Bchelor's Degree in Software Engineering | @IBM Data Science Professional Certificate | All In Africa Program COHORT 1 GRADUATE</h3><br>
 
 -------------------
-First-year Master's student in Data & AI | Python/Flask 
+First-year Master's student in Data & AI | Aspiring Python Expert 
 -------------------
 <p>
     <a href="https://github.com/AbdessamadTzn"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
