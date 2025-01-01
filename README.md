@@ -3,7 +3,7 @@
 <h3>Bchelor's Degree in Software Engineering | @IBM Data Science Professional Certificate | All In Africa Program COHORT 1 GRADUATE</h3><br>
 
 -------------------
-First-year Master's student in Data & AI | Aspiring Python Expert 
+First-year Master's student in Data & AI | Aspiring Python Expert | Beta Tester at [Datawars](https://github.com/datawars-io)
 -------------------
 <p>
     <a href="https://github.com/AbdessamadTzn"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
@@ -15,20 +15,18 @@ First-year Master's student in Data & AI | Aspiring Python Expert
 
 **🔭 Working on: <br>**                                                                          
     
-[Python Converter System](https://github.com/AbdessamadTzn/NL2SQL) (Setting UP...) <br>
-Power BI projects (Setting UP...) <br>
+[DSecure](https://github.com/AbdessamadTzn/DSecure) <br>
+[Power BI projects](https://github.com/AbdessamadTzn/powerBI) <br>
 
-**💡 Currently contributing in: <br>**
-[CHAOSS Africa Education](https://github.com/chaoss/education/)<br>
-
+**💡 Currently: <br>**
+**-> Beta Tester at [Datawars](https://github.com/datawars-io) <br>**
+**-> Contributing in [CHAOSS Africa Education](https://github.com/chaoss/education/) <br>**
 
 🚀 **Projects**
     
 ⚡Data Analysis's Open Source Project [Dosatsu Sozo](https://github.com/AbdessamadTzn/Dosatsu-Sozo)<br/>
 
 ⚡[Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/) (Working on enhancing...)<br/>
-
-⚡ [Machine Learning projects](https://github.com/AbdessamadTzn/Machine-Learning-Projects)<br/>
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>
