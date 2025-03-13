@@ -15,18 +15,17 @@ First-year Master's student in Data & AI | Aspiring Python Expert | Beta Tester 
 
 **🔭 Working on: <br>**                                                                          
     
-[DSecure](https://github.com/AbdessamadTzn/DSecure) <br>
-[Power BI projects](https://github.com/AbdessamadTzn/powerBI) <br>
+[Customer Satisfaction Pipeline with ZenML](https://github.com/AbdessamadTzn/customers-satisfactions-zenml) <br>
 
 **💡 Currently: <br>**
 **-> Beta Tester at [Datawars](https://github.com/datawars-io) <br>**
 **-> Contributing in [CHAOSS Africa Education](https://github.com/chaoss/education/) <br>**
 
-🚀 **Projects**
+[//]:# (🚀 **Projects**)
     
-⚡Data Analysis's Open Source Project [Dosatsu Sozo](https://github.com/AbdessamadTzn/Dosatsu-Sozo)<br/>
+[//]:# (⚡Data Analysis's Open Source Project) 
 
-⚡[Analytic App using Dash - Pandemic Impact Monitor](https://flight-crashes-analysis-omw0.onrender.com/) (Working on enhancing...)<br/>
+[//]:# (⚡[Analytic App using Dash - Pandemic Impact Monitor])
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>
