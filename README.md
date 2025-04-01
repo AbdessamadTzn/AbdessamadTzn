@@ -18,7 +18,6 @@ First-year Master's student in Data & AI | Aspiring Python Expert
 [Customer Satisfaction Pipeline with ZenML](https://github.com/AbdessamadTzn/customers-satisfactions-zenml) <br>
 
 **💡 Currently: <br>**
-**-> Beta Tester at [Datawars](https://github.com/datawars-io) <br>**
 **-> Contributing in [CHAOSS Africa Education](https://github.com/chaoss/education/) <br>**
 
 [//]:# (🚀 **Projects**)
