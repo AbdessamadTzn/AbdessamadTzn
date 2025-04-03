@@ -22,9 +22,6 @@ First-year Master's student in Data & AI | Aspiring Python Expert
 
 [//]:# (🚀 **Projects**)
     
-[//]:# (⚡Data Analysis's Open Source Project) 
-
-[//]:# (⚡[Analytic App using Dash - Pandemic Impact Monitor])
 
 🤔 If you are new to OOP; You can take a look on [Basics Java OPP](https://github.com/AbdessamadTzn/Java-OOP-basics)
 </p>
