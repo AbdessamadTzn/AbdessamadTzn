@@ -16,9 +16,9 @@
 
 ---
 
-## 🚀 Projects by Category
+##  Projects 
 
-### 🛠️ Data Engineering
+###  Data Engineering
 
 - **[Tour de France Data Pipeline](https://github.com/AbdessamadTzn/tdf-bigdata)**  
   <em>GCP · Apache Beam · BigQuery · Looker Studio</em>  
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧠 LLM & AI Projects
+###  LLM & AI Projects
 
 - **[Fake News Detection](https://github.com/AbdessamadTzn/fake-news-detection)**  
   <em>IBM InstructLab · MLflow </em>  
@@ -41,7 +41,7 @@
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 If you're just getting into OOP, check out:  
 ➡️ **[Java OOP Basics](https://github.com/AbdessamadTzn/Java-OOP-basics)**  
