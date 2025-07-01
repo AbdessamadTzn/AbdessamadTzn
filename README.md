@@ -38,6 +38,7 @@
 
 - **[CHAOSS Africa Education](https://github.com/chaoss/education/)**  
   Supporting open-source education initiatives across Africa with content and outreach.
+- **Check my course : [Open Source in Education](https://zoom.us/rec/share/wMCxwBEwhhsl0Skk0QRN7SKh5QbPrAX5NMQB5UtPpRaZpQ7OnCUCLRA_GzxJApN5.vAQXWeaopdHG5Tdr?startTime=1749905327000)**
 
 ---
 
