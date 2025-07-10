@@ -20,6 +20,9 @@
 
 ###  Data Engineering
 
+- **[Bytefi24](https://github.com/AbdessamadTzn/Bytefi24)**  
+    <em>Stay in sync with the heartbeat of tech - in progress...</em>
+
 - **[Tour de France Data Pipeline](https://github.com/AbdessamadTzn/tdf-bigdata)**  
   <em>GCP · Apache Beam · BigQuery · Looker Studio</em>  
   A scalable pipeline to ingest, transform, and visualize race data from the Tour de France.
