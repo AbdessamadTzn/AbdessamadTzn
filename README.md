@@ -20,8 +20,9 @@
 
 ###  Data Engineering
 
-- **[Bytefi24](https://github.com/AbdessamadTzn/Bytefi24)**  
-    <em>Stay in sync with the heartbeat of tech - in progress...</em>
+- **[TechFi24](https://techfi24.onrender.com)**  
+    <em>GCP · Cloud Run · PostgreSQL · Cron Jobs · Telegram API</em>  
+    Real-time tech news aggregation system built with modern data engineering best practices, featuring automated scraping, cloud infrastructure, and scalable data processing.
 
 - **[Tour de France Data Pipeline](https://github.com/AbdessamadTzn/tdf-bigdata)**  
   <em>GCP · Apache Beam · BigQuery · Looker Studio</em>  
