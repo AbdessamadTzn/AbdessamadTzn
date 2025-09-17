@@ -30,14 +30,6 @@
 
 ---
 
-###  LLM & AI Projects
-
-- **[Fake News Detection](https://github.com/AbdessamadTzn/fake-news-detection)**  
-  <em>IBM InstructLab · MLflow </em>  
-  Detects misinformation using fine-tuned LLMs and a practical pipeline - in progress...
-
----
-
 ### 🌐 Community Contributions
 
 - **[CHAOSS Africa Education](https://github.com/chaoss/education/)**  
