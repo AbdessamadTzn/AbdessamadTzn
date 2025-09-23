@@ -4,12 +4,14 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
+  workflow_dispatch: 
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
+      - name: Update Badges
         uses: AbdessamadTzn/AbdessamadTzn@main
         with:       
           CREDLY_USER: abdessamad-touzani # optional, but default will use the same from github
+          NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
