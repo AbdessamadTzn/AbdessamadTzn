@@ -1,26 +1,31 @@
 import requests
-import os
+from bs4 import BeautifulSoup
 
-USERNAME = "abdessamad-touzani"  
-API_URL = f"https://credly.com/api/v1/users/{abdessamad-touzani}/badges"
+USERNAME = "abdessamad-touzani"  # replace with your public Credly username
+URL = f"https://www.credly.com/users/{USERNAME}/badges"
 
-# Fetch badges (requires API key if not public)
-headers = {"Authorization": f"Bearer {os.environ['CREDLY_TOKEN']}"}
-resp = requests.get(API_URL, headers=headers)
+resp = requests.get(URL)
+soup = BeautifulSoup(resp.text, "html.parser")
 
-if resp.status_code == 200:
-    badges = resp.json().get("data", [])
-    with open("README.md", "r") as f:
-        readme = f.read()
+badges = []
 
-    # Insert badges at placeholder
-    start = "<!-- CREDLY-BADGES:START -->"
-    end = "<!-- CREDLY-BADGES:END -->"
-    badge_md = "\n".join(
-        f"[![{b['badge_template']['name']}]({b['badge_template']['image_url']})]({b['issued_to']['url']})"
-        for b in badges
-    )
-    new_readme = readme.split(start)[0] + start + "\n" + badge_md + "\n" + end + readme.split(end)[1]
+for badge in soup.select("div.cr-badge"):
+    img = badge.find("img")
+    link = badge.find("a", href=True)
 
-    with open("README.md", "w") as f:
-        f.write(new_readme)
+    if img and link:
+        badge_md = f"[![{img['alt']}]({img['src']})](https://www.credly.com{link['href']})"
+        badges.append(badge_md)
+
+# Read README
+with open("README.md", "r") as f:
+    readme = f.read()
+
+start = "<!-- CREDLY-BADGES:START -->"
+end = "<!-- CREDLY-BADGES:END -->"
+badge_section = "\n".join(badges)
+
+new_readme = readme.split(start)[0] + start + "\n" + badge_section + "\n" + end + readme.split(end)[1]
+
+with open("README.md", "w") as f:
+    f.write(new_readme)
