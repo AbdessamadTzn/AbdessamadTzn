@@ -15,8 +15,10 @@
 </p>
 
 ---
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+## 🎖️ My Badges
+
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->  
 
 ##  Projects 
 
