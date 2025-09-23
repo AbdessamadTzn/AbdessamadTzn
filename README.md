@@ -15,7 +15,7 @@
 </p>
 
 ---
-## 🎖️ My Badges
+## 🎖️ [My Badges](https://www.credly.com/users/abdessamad-touzani/badges)
 
 <!-- CREDLY-BADGES:START -->
 <!-- CREDLY-BADGES:END -->  
