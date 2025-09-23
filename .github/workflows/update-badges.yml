@@ -1,0 +1,32 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Runs weekly
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run badge fetch script
+        run: python fetch_badges.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update Credly badges"
+          git push
