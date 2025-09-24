@@ -1,6 +1,6 @@
 <h2 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Abdessamad Touzani</h2>
 
-<h3 align="center">Bachelor's in Software Engineering | 1st-Year Master's Student in Data & AI</h3>
+<h3 align="center">Bachelor's in Software Engineering | 2nd-Year Master's Student in Data & AI</h3>
 
 <p align="center">
   <a href="https://github.com/AbdessamadTzn" target="_blank">
@@ -15,7 +15,12 @@
 </p>
 
 ---
-## 🎖️ [My Badges](https://www.credly.com/users/abdessamad-touzani/badges)
+<h3 align="center">
+  <a href="https://www.credly.com/users/abdessamad-touzani/badges">My Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://g.dev/abdessamadtouzani">Google Developers</a>
+</h3>
+
+
 
 <!-- CREDLY-BADGES:START -->
 <!-- CREDLY-BADGES:END -->  
