@@ -27,9 +27,6 @@
 
 ##  Projects 
 
-- **[ML & Mathematics](https://github.com/AbdessamadTzn/GoogleDevs_ML)**  <br>
-    <em> Machine Learning scripts with a mathematical perspective (Google Deves ML courses) <em>
-
 - **[SemanDBridge](https://github.com/AbdessamadTzn/semandbridge)** (Upcoming...)  
     <em>AI-Powered Semantic Layer for Databases </em>  
     A cutting-edge research project dedicated to bridging the gap between traditional SQL databases and LLMs by overlaying an AI-powered semantic              knowledge graph. 
