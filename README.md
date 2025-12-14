@@ -1,6 +1,6 @@
 <h2 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Abdessamad Touzani</h2>
 
-<h3 align="center">Python & AI Developer | Tech Lead Data | 2nd-Year Master's Student in Data & AI</h3>
+<h3 align="center">AI Engineer | 2nd-Year Master's Student in Data & AI</h3>
 
 <p align="center">
   <a href="https://github.com/AbdessamadTzn" target="_blank">
