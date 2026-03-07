@@ -29,11 +29,7 @@
 
 - **[SemanDBridge](https://github.com/AbdessamadTzn/semandbridge)** (Upcoming...)  
     <em>AI-Powered Semantic Layer for Databases </em>  
-    A cutting-edge research project dedicated to bridging the gap between traditional SQL databases and LLMs by overlaying an AI-powered semantic              knowledge graph. 
-
-- **[CsvFlow](https://github.com/AbdessamadTzn/csvflow)**  (in progress...)  
-    <em>A lightweight visual + programmatic ETL tool powered by Polars.</em>  
-    Natural language to ETL pipeline converter using regex and Polars — parse text into JSON flows for fast CSV processing.
+    A cutting-edge research project dedicated to bridging the gap between traditional SQL databases and LLMs by overlaying an AI-powered semantic              knowledge graph.
 
 - **[TechFi24](https://techfi24.onrender.com)**  
     <em>GCP · Cloud Run · PostgreSQL · Cron Jobs · Telegram API</em>  
