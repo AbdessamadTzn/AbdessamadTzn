@@ -31,8 +31,7 @@
     <em>AI-Powered Semantic Layer for Databases </em>  
     A cutting-edge research project dedicated to bridging the gap between traditional SQL databases and LLMs by overlaying an AI-powered semantic              knowledge graph.
 
-- **[TechFi24](https://techfi24.onrender.com)**  
-    <em>GCP · Cloud Run · PostgreSQL · Cron Jobs · Telegram API</em>  
+- **[TechFi24](https://techfi24.com)**  
     Real-time tech news aggregation system built with modern data engineering best practices, featuring automated scraping, cloud infrastructure, and scalable data processing.
 
 - **[Tour de France Data Pipeline](https://github.com/AbdessamadTzn/tdf-bigdata)**  
