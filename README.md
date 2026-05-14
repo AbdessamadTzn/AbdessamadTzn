@@ -25,7 +25,7 @@
   <em>FastAPI · AWS Lambda/EventBridge · PostgreSQL · NLP · Time Series · MLOps</em>  
   End-to-end ML platform for French tech news curation — NLP relevance filtering (CamemBERT), category classification, deduplication, summarization, time series forecasting for pipeline anomaly detection, and full MLOps stack (MLflow, DVC, drift monitoring, batch scoring API).
 
-- **[FastAPI-MCP-Architect](https://pypi.org/project/fastapi-architect-mcp/0.1.0/)**  
+- **[FastAPI-MCP-Architect](https://glama.ai/mcp/servers/AbdessamadTzn/fastapi-architect-mcp)**  
   <em>Python · MCP SDK · AST · Context Engineering</em>  
   Open-source MCP server extending Claude Code with IDE-level intelligence for FastAPI projects: code navigation, dependency analysis, and architectural inconsistency detection.
 
