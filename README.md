@@ -16,18 +16,18 @@
 
 ## Right now
 
-- 🧭 **Technical lead at [ELPP](https://elpp.fr)**, a student-guidance platform run by AI agents. I lead a team of 5: shared multi-agent foundation in Python, a hybrid RAG engine over 55 official sources (161k vectors, pgvector + BM25 fused with RRF, mandatory source citations), and AWS infrastructure in Terraform hosted in Paris for GDPR compliance.
-- 🎓 Finishing a **Master's in Data & AI** at HETIC (Oct. 2026).
-- 📰 Tracking AI, Python and data science news on **[abdessamadtouzani.com/newsletter](https://abdessamadtouzani.com/newsletter)**.
+- **Technical lead at [ELPP](https://elpp.fr)**, a student-guidance platform run by AI agents. I lead a team of 5: shared multi-agent foundation in Python, a hybrid RAG engine over 55 official sources (161k vectors, pgvector + BM25 fused with RRF, mandatory source citations), and AWS infrastructure in Terraform hosted in Paris for GDPR compliance.
+- **MSc in Data & AI**, HETIC.
+- Tracking AI, Python and data science news on **[abdessamadtouzani.com/newsletter](https://abdessamadtouzani.com/newsletter)**.
 
-## What I've shipped in production
+## Recent client missions
 
-At **Cozetik** (AI Engineer, Nov. 2025 – Apr. 2026):
+AI Engineer, 6 months of client missions (Nov. 2025 – Apr. 2026):
 
-- **Recruitment platform:** multi-agent LLM system (orchestrator + 9 specialised sub-agents), persistent memory (Supabase + Redis), SSE streaming and a fact-checking step against hallucinations. FastAPI backend.
-- **Document chatbot:** RAG over business PDFs with hybrid retrieval (dense + BM25, RRF) and a distance threshold so it declines to answer when the corpus has nothing.
-- **Real-time data pipeline:** Firebase → BigQuery sync on Cloud Functions, data model and KPIs for a Streamlit dashboard and a recommender.
-- **Voice callbot** for an NGO: multi-agent architecture for inbound and outbound calls, CRM actions, RAG for informational answers.
+- **Recruitment platform:** multi-agent LLM system (orchestrator + 9 specialised sub-agents), persistent memory, SSE streaming and fact-checking against hallucinations.
+- **Document chatbot:** hybrid RAG (dense + BM25, RRF) that declines to answer outside its corpus.
+- **Real-time data pipeline:** Firebase → BigQuery on Cloud Functions, KPIs and dashboard.
+- **Voice callbot for an NGO:** multi-agent inbound and outbound calls, CRM actions, RAG answers.
 
 ## Featured projects
 
@@ -70,7 +70,7 @@ At **Cozetik** (AI Engineer, Nov. 2025 – Apr. 2026):
 
 ## Latest articles
 
-<sub>Written in French 🇫🇷 on [abdessamadtouzani.com](https://abdessamadtouzani.com), updated automatically.</sub>
+<sub>Written in French, on [abdessamadtouzani.com](https://abdessamadtouzani.com). Updated automatically.</sub>
 
 <!-- ARTICLES:START -->
 - **[MCP vs API : Pourquoi le Model Context Protocol est le nouvel "USB-C" des Agents IA](https://abdessamadtouzani.com/assets/articles/article_mcp_vs_api.html)**  
