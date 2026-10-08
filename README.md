@@ -31,7 +31,7 @@ AI Engineer, 6 months of client missions (Nov. 2025 – Apr. 2026):
 
 ## Featured projects
 
-- **[FastAPI-MCP-Architect](https://github.com/AbdessamadTzn/fastapi-architect-mcp)**: open-source MCP server that gives Claude Code IDE-level understanding of FastAPI projects. Published on PyPI and [Glama](https://glama.ai/mcp/servers/AbdessamadTzn/fastapi-architect-mcp).
+- **[FastAPI-MCP-Architect](https://github.com/AbdessamadTzn/fastapi-architect-mcp)**: open-source MCP server that gives Claude Code IDE-level understanding of FastAPI projects. Published on [PyPI](https://pypi.org/project/fastapi-architect-mcp/) and [Glama](https://glama.ai/mcp/servers/AbdessamadTzn/fastapi-architect-mcp).
 - **[TechFi24](https://techfi24.com)**: automated tech-news platform, with articles classified by LLM agents on AWS.
 - **[LinkedIn Autopost](https://github.com/AbdessamadTzn/linkedin-autopost)**: LLM-generated posts, published daily by GitHub Actions.
 - **[Ether Stories](https://github.com/AbdessamadTzn/ether_stories)**: multi-agent LLM API that writes calming bedtime stories for kids.
