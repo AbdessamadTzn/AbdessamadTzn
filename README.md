@@ -31,14 +31,11 @@ AI Engineer, 6 months of client missions (Nov. 2025 – Apr. 2026):
 
 ## Featured projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[FastAPI-MCP-Architect](https://github.com/AbdessamadTzn/fastapi-architect-mcp)** | Open-source MCP server that gives Claude Code IDE-level understanding of FastAPI projects: semantic navigation, dependency graph, impact analysis, security audit. Published on PyPI and [Glama](https://glama.ai/mcp/servers/AbdessamadTzn/fastapi-architect-mcp). | Python · MCP · Jedi · AST |
-| **[TechFi24](https://techfi24.com)** | Automated tech-news platform: RSS ingestion, classification by LLM agents. | Python · AWS Lambda · RDS · EventBridge |
-| **[Code du travail RAG](https://github.com/AbdessamadTzn/md5_code_travail_rag)** | RAG assistant over the French Labour Code. [Live demo](https://md5-code-travail-rag.vercel.app). | Python · RAG · Embeddings |
-| **[LinkedIn Autopost](https://github.com/AbdessamadTzn/linkedin-autopost)** | Weekly LLM-generated posts, published daily by GitHub Actions. | Python · LLM · GitHub Actions |
-| **[Ether Stories](https://github.com/AbdessamadTzn/ether_stories)** | Multi-agent LLM API that writes calming bedtime stories for kids. | Python · Multi-agents |
-| **[Portfolio](https://github.com/AbdessamadTzn/portfolio)** | My site, articles and AI newsletter. | HTML/JS · Vercel · Resend |
+- **[FastAPI-MCP-Architect](https://github.com/AbdessamadTzn/fastapi-architect-mcp)**: open-source MCP server that gives Claude Code IDE-level understanding of FastAPI projects. Published on PyPI and [Glama](https://glama.ai/mcp/servers/AbdessamadTzn/fastapi-architect-mcp).
+- **[TechFi24](https://techfi24.com)**: automated tech-news platform, with articles classified by LLM agents on AWS.
+- **[LinkedIn Autopost](https://github.com/AbdessamadTzn/linkedin-autopost)**: LLM-generated posts, published daily by GitHub Actions.
+- **[Ether Stories](https://github.com/AbdessamadTzn/ether_stories)**: multi-agent LLM API that writes calming bedtime stories for kids.
+- **[Portfolio](https://github.com/AbdessamadTzn/portfolio)**: my site, articles and AI newsletter.
 
 ## Stack
 
